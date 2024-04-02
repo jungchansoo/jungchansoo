@@ -17,7 +17,7 @@ tech stacks
 -- 자바스크립트 뱃지
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
 
-<img src="https://img.shields.io/badge/②뱃지레이블-F7DF1E?style=④뱃지모양&logo=Javascript&logoColor=FFF"/></a>
+<img src="https://img.shields.io/badge/②뱃지레이블-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=FFF"/></a>
 
 
 -- HTML5 뱃지
