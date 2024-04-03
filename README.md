@@ -9,11 +9,16 @@
 <!-- summary 태그로 제목정의 -->
 <summary>About Me</summary>
 어쩌구저쩌구 (감추고자 하는 내용)
-Skill
-   langu
+  
+   
 </summary>
    
 </details>
+Skill
+<hr>
+
+
+
 </div>
 
 <!-- 푸터 -->
