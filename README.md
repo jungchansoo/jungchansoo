@@ -14,16 +14,16 @@
 </summary>
    
 </details>
-Skill
+ Skill
 <hr>
-Language : 
-<!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지-->
+<span style="font-size:20px;">Language</span> : 
+<!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지  //  SQL은 로고가 없어서 제외-->
 <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-696969?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/java-FFA500?style=for-the-badge&logo=OpenJDK&logoColor=white"> JAVASCRIPT SQL
+<img src="https://img.shields.io/badge/java-FFA500?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1Estyle=for-the-badge&logo=javascript&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
 </div>
 
 <!-- 푸터 -->
