@@ -14,8 +14,8 @@
 </summary>
    
 </details>
- Skill
-<hr>
+
+# Skills
 <span style="font-size:20px;">Language</span> : 
 <!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지  //  SQL은 로고가 없어서 제외-->
 <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white">
