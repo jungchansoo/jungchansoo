@@ -16,7 +16,10 @@
 </details>
 
 # Skills
-<span style="font-size:20px;">Language</span> : 
+
+### Language
+
+
 <!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지  //  SQL은 로고가 없어서 제외-->
 <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-696969?style=for-the-badge&logo=c&logoColor=white">
@@ -24,6 +27,27 @@
 <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
+
+### Front-End
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/AJAX-4479A1?style=for-the-badge">
+
+### Back-End
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/AJAX-4479A1?style=for-the-badge">
+
+
+
 </div>
 
 <!-- 푸터 -->
