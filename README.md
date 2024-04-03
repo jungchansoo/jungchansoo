@@ -16,8 +16,12 @@
 </details>
 Skill
 <hr>
-Language : PYTHON C 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> C# JAVASCRIPT SQL
+<span style="font-size: 20px;">Language:</span> C
+Language : 
+<!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지-->
+<img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-696969?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/java-FFA500?style=for-the-badge&logo=OpenJDK&logoColor=white"> C# JAVASCRIPT SQL
 
 
 </div>
