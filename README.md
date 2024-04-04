@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
 ### 📫 Contact 📫
- <a href="[https://velog.io/@oka1313](https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4)">
+ <a href="https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4">
    <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">&nbsp
  </a>
 
