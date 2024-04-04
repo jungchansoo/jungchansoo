@@ -15,7 +15,12 @@
    
 </details>
 
-# Skills
+# ✨ Skills ✨
+
+### 📚 Studying 📚
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ### Language
 
@@ -55,18 +60,23 @@
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-### Tools
+### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-808080?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-333333?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+### 📫 Contact 📫
+ <a href="[https://velog.io/@oka1313](https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4)">
+   <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">&nbsp
+ </a>
 
 <br>
 <br>
