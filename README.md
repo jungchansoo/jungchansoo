@@ -74,8 +74,9 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
 ### 📫 Contact 📫
- <a href="https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">&nbsp
+<!-- target="_blank" 새창열기 깃허브 보안상 지원 안함 -->
+ <a href="https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4">
+   <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">
  </a>
 
 <br>
@@ -85,27 +86,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungchansoo&langs_count=6&hide=jupyter%20notebook,roff&theme=radical">
 
-
 </div>
 
 
 <!-- 푸터 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
--- 네이버 블로그 뱃지
-<a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
-
--- 인스타그램 뱃지
-<a href="https://www.instagram.com/so0yeon__?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
-
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
