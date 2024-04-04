@@ -19,8 +19,6 @@
 
 ### Language
 
-
-<!--위에서부터 아래로 python,c,java,c#,javascript,sql 뱃지  //  SQL은 로고가 없어서 제외-->
 <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-696969?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/java-FFA500?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -44,7 +42,6 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <br>
@@ -52,15 +49,12 @@
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
-
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 
-amazonaws
-<img src="https://img.shields.io/badge/AJAX-4479A1?style=for-the-badge">
 
 
 
