@@ -56,9 +56,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungchansoo&show_icons=true&theme=radical)
-
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungchansoo&langs_count=6&hide=jupyter%20notebook,roff">
-
+<br>
+<br>
 </div>
 
 <!-- 푸터 -->
