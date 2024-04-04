@@ -55,14 +55,12 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 
+
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungchansoo&show_icons=true&theme=radical)
-<br>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungchansoo&langs_count=6&hide=jupyter%20notebook,roff">
 <br>
 <br>
-</div>
-
 <!-- 푸터 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
