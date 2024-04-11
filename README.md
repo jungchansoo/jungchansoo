@@ -5,17 +5,21 @@
 <div align="center">
 <!-- details 태그로 내용숨김 align을 center 로 처리 중앙정 -->
 <!-- https://simpleicons.org/?q=not 에서 뱃지 가져옴-->
+  
+<!--
 <details>
+-->
+
 <!-- summary 태그로 제목정의 -->
+  
 <!--
 <summary>About Me</summary>
   감추고자하는내용
-->>
+-->
   
-   
-</summary>
-   
+<!--
 </details>
+-->
 
 # ✨ Skills ✨
 
