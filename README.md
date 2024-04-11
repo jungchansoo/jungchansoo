@@ -7,8 +7,10 @@
 <!-- https://simpleicons.org/?q=not 에서 뱃지 가져옴-->
 <details>
 <!-- summary 태그로 제목정의 -->
+<!--
 <summary>About Me</summary>
-어쩌구저쩌구 (감추고자 하는 내용)
+  감추고자하는내용
+->>
   
    
 </summary>
