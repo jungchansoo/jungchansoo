@@ -20,6 +20,8 @@
 <!--
 </details>
 -->
+# 기술블로그
+https://velog.io/@chansoo/posts
 
 # ✨ Skills ✨
 
