@@ -106,8 +106,8 @@ https://velog.io/@chansoo/posts
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungchansoo&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungchansoo&show_icons=true&theme=radical)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungchansoo&langs_count=6&hide=jupyter%20notebook,roff&theme=radical">
 
