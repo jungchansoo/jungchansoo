@@ -3,6 +3,9 @@
 
 <div align="center">
 
+# ![star](https://img.icons8.com/emoji/48/000000/star-emoji.png) Beyond the Best ![star](https://img.icons8.com/emoji/48/000000/star-emoji.png)
+
+
 # 참고
 #### 업무가 바빠서 readme는 추후 정리합니다.
 #### 노션 또한 업데이트가 밀려 제외하였습니다. 추후 업데이트 완료되면 게시예정
