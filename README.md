@@ -42,6 +42,9 @@ https://velog.io/@chansoo/posts
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 ### Front-End
 
