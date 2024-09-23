@@ -97,23 +97,20 @@ https://velog.io/@chansoo/posts
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-333333?style=for-the-badge&logo=intellijidea&logoColor=white">
 
+<!--
 ### 📫 Contact 📫
-<!-- target="_blank" 새창열기 깃허브 보안상 지원 안함 -->
  <a href="https://www.notion.so/9f8195ccddf64b5c9f52ce3c7a4b10d6?pvs=4">
    <img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white">
  </a>
+-->
 
 <br>
 <br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungchansoo&show_icons=true&theme=radical)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungchansoo&langs_count=6&hide=jupyter%20notebook,roff&theme=radical">
 
-<!-- 백준
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
--->
 </div>
 
 
