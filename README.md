@@ -13,7 +13,7 @@
 # 기술블로그
 https://velog.io/@chansoo/posts
 
-# ✨ Skills ✨
+# Skills
 
 ### 📚 Studying 📚
 <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
